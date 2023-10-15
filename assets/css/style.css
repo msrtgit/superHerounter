@@ -1,0 +1,24 @@
+body{
+		font-family: 'Bangers', cursive;
+	 }
+	.navbar{
+		background-color: #edc33d;
+	}
+	.navbar-brand{
+		color: #aa0505 !important;
+	}
+
+	.wrapper{
+		background: url("../images/bg-6.jpg");
+		background-position: center center;
+	    background-size: cover;
+	    background-repeat: no-repeat;
+	    min-height: 682px;
+	    position: relative;
+	}
+
+	.btn-fav, .btn-search{
+		color: #fbca03;
+		border-color: #fbca03;
+		background-color: #aa0505;
+	}
