@@ -1,4 +1,4 @@
-# superHerounter
+# SuperHero Hunter
 Introduction :- This is Super Hero Hunter Web Application developed by Using Html,Css & javascript for searching Superheros 
 
 Fearures :- 
